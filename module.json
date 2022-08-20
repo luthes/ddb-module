@@ -1,6 +1,6 @@
 {
-  "name": "global-ddb-backgrounds",
-  "title": "DDB Backgrounds",
+  "name": "global-ddb-compendiums",
+  "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
   "version": "1.0.0",
   "library": "false",
