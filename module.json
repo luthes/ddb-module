@@ -1,0 +1,99 @@
+{
+  "name": "global-ddb-backgrounds",
+  "title": "DDB Backgrounds",
+  "description": "A module containing Shared DnD Beyond compendiums.",
+  "version": "1.0.0",
+  "library": "false",
+  "manifestPlusVersion": "1.0.0",
+  "minimumCoreVersion": "9",
+  "compatibleCoreVersion": "9",
+  "author": "Steven",
+  "packs": [
+    {
+      "type": "Item",
+      "label": "DDB Backgrounds",
+      "module": "global-ddb-backgrounds",
+      "path": "packs/world-ddb-dnd-beyond-importer-backgrounds-1661030013128.db",
+      "name": "world-ddb-dnd-beyond-importer-backgrounds-1661030013128"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Backgrounds",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-backgrounds-1661030013128.db",
+      "name": "world-ddb-dnd-beyond-importer-backgrounds-1661030013128"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Features",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-class-features-1661030034006.db",
+      "name": "world-ddb-dnd-beyond-importer-class-features-1661030034006"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Classes",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-classes-1661030093039.db",
+      "name": "world-ddb-dnd-beyond-importer-classes-1661030093039"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Feats",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-feats-1661030107055.db",
+      "name": "world-ddb-dnd-beyond-importer-feats-1661030107055"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Items",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-items-1661030123478.db",
+      "name": "world-ddb-dnd-beyond-importer-items-1661030123478"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Monsters",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-monsters-1661030177260.db",
+      "name": "world-ddb-dnd-beyond-importer-monsters-1661030177260"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Races",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-races-1661030225991.db",
+      "name": "world-ddb-dnd-beyond-importer-races-1661030225991"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Racial Traits",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-racial-traits-1661030248110.db",
+      "name": "world-ddb-dnd-beyond-importer-racial-traits-1661030248110"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Spells",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-spells-1661030268514.db",
+      "name": "world-ddb-dnd-beyond-importer-spells-1661030268514"
+    },
+    {
+      "type": "Item",
+      "label": "Shared DDB Subclasses",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-subclasses-1661030280800.db",
+      "name": "world-ddb-dnd-beyond-importer-subclasses-1661030280800"
+    },
+    {
+      "type": "Item",
+      "label": "Shaed DDB Tables",
+      "module": "global-ddb-compendiums",
+      "path": "packs/world-ddb-dnd-beyond-importer-tables-1661030295759.db",
+      "name": "world-ddb-dnd-beyond-importer-tables-1661030295759"
+    }
+  ],
+  "manifest": "",
+  "download": ""
+}
