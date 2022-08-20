@@ -2,7 +2,7 @@
   "name": "global-ddb-compendiums",
   "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
@@ -12,7 +12,7 @@
     {
       "type": "Item",
       "label": "Global DDB Backgrounds",
-      "module": "global-ddb-backgrounds",
+      "module": "global-ddb-compendiums",
       "path": "packs/world-ddb-dnd-beyond-importer-backgrounds.db",
       "name": "world-ddb-dnd-beyond-importer-backgrounds"
     },
@@ -95,5 +95,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
-  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.3.zip"
+  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.4.zip"
 }
