@@ -95,5 +95,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
-  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.1.zip"
+  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.2.zip"
 }
