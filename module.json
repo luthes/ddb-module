@@ -2,7 +2,7 @@
   "name": "global-ddb-compendiums",
   "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
@@ -52,7 +52,7 @@
       "name": "global-ddb-items"
     },
     {
-      "type": "Item",
+      "type": "Actor",
       "label": "Shared DDB Monsters",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-monsters.db",
@@ -87,7 +87,7 @@
       "name": "global-ddb-subclasses"
     },
     {
-      "type": "Item",
+      "type": "RollTable",
       "label": "Shaed DDB Tables",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-tables.db",
@@ -95,5 +95,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
-  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.5.zip"
+  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.6.zip"
 }
