@@ -2,7 +2,7 @@
   "name": "global-ddb-compendiums",
   "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
@@ -95,5 +95,5 @@
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
-  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.7.zip"
+  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.8.zip"
 }
