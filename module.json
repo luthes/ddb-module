@@ -2,7 +2,7 @@
   "name": "global-ddb-compendiums",
   "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "9",
@@ -13,87 +13,87 @@
       "type": "Item",
       "label": "Global DDB Backgrounds",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-backgrounds.db",
-      "name": "world-ddb-dnd-beyond-importer-backgrounds"
+      "path": "./packs/global-ddb-backgrounds.db",
+      "name": "global-ddb-backgrounds"
     },
     {
       "type": "Item",
       "label": "Shared DDB Backgrounds",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-backgrounds.db",
-      "name": "world-ddb-dnd-beyond-importer-backgrounds"
+      "path": "./packs/global-ddb-backgrounds.db",
+      "name": "global-ddb-backgrounds"
     },
     {
       "type": "Item",
       "label": "Shared DDB Class Features",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-class-features.db",
-      "name": "world-ddb-dnd-beyond-importer-class-features"
+      "path": "./packs/global-ddb-class-features.db",
+      "name": "global-ddb-class-features"
     },
     {
       "type": "Item",
       "label": "Shared DDB Classes",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-classes.db",
-      "name": "world-ddb-dnd-beyond-importer-classes"
+      "path": "./packs/global-ddb-classes.db",
+      "name": "global-ddb-classes"
     },
     {
       "type": "Item",
       "label": "Shared DDB Feats",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-feats.db",
-      "name": "world-ddb-dnd-beyond-importer-feats"
+      "path": "./packs/global-ddb-feats.db",
+      "name": "global-ddb-feats"
     },
     {
       "type": "Item",
       "label": "Shared DDB Items",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-items.db",
-      "name": "world-ddb-dnd-beyond-importer-items"
+      "path": "./packs/global-ddb-items.db",
+      "name": "global-ddb-items"
     },
     {
       "type": "Item",
       "label": "Shared DDB Monsters",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-monsters.db",
-      "name": "world-ddb-dnd-beyond-importer-monsters"
+      "path": "./packs/global-ddb-monsters.db",
+      "name": "global-ddb-monsters"
     },
     {
       "type": "Item",
       "label": "Shared DDB Races",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-races.db",
-      "name": "world-ddb-dnd-beyond-importer-races"
+      "path": "./packs/global-ddb-races.db",
+      "name": "global-ddb-races"
     },
     {
       "type": "Item",
       "label": "Shared DDB Racial Traits",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-racial-traits.db",
-      "name": "world-ddb-dnd-beyond-importer-racial-traits"
+      "path": "./packs/global-ddb-racial-traits.db",
+      "name": "global-ddb-racial-traits"
     },
     {
       "type": "Item",
       "label": "Shared DDB Spells",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-spells.db",
-      "name": "world-ddb-dnd-beyond-importer-spells"
+      "path": "./packs/global-ddb-spells.db",
+      "name": "global-ddb-spells"
     },
     {
       "type": "Item",
       "label": "Shared DDB Subclasses",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-subclasses.db",
-      "name": "world-ddb-dnd-beyond-importer-subclasses"
+      "path": "./packs/global-ddb-subclasses.db",
+      "name": "global-ddb-subclasses"
     },
     {
       "type": "Item",
       "label": "Shaed DDB Tables",
       "module": "global-ddb-compendiums",
-      "path": "packs/world-ddb-dnd-beyond-importer-tables.db",
-      "name": "world-ddb-dnd-beyond-importer-tables"
+      "path": "./packs/global-ddb-tables.db",
+      "name": "global-ddb-tables"
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
-  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.4.zip"
+  "download": "https://github.com/luthes/ddb-module/archive/refs/tags/1.0.5.zip"
 }
