@@ -2,11 +2,11 @@
   "name": "global-ddb-compendiums",
   "title": "Stevens Global DDB Compendiums",
   "description": "A module containing Shared DnD Beyond compendiums.",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "library": "false",
   "manifestPlusVersion": "1.0.0",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9",
+  "minimumCoreVersion": "10",
+  "compatibleCoreVersion": "10",
   "author": "Steven",
   "packs": [
     {
