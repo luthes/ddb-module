@@ -14,84 +14,108 @@
       "label": "Global DDB Backgrounds",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-backgrounds.db",
-      "name": "global-ddb-backgrounds"
+      "name": "global-ddb-backgrounds",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Backgrounds",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-backgrounds.db",
-      "name": "global-ddb-backgrounds"
+      "name": "global-ddb-backgrounds",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Class Features",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-class-features.db",
-      "name": "global-ddb-class-features"
+      "name": "global-ddb-class-features",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Classes",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-classes.db",
-      "name": "global-ddb-classes"
+      "name": "global-ddb-classes",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Feats",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-feats.db",
-      "name": "global-ddb-feats"
+      "name": "global-ddb-feats",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Items",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-items.db",
-      "name": "global-ddb-items"
+      "name": "global-ddb-items",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Actor",
       "label": "Shared DDB Monsters",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-monsters.db",
-      "name": "global-ddb-monsters"
+      "name": "global-ddb-monsters",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Races",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-races.db",
-      "name": "global-ddb-races"
+      "name": "global-ddb-races",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Racial Traits",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-racial-traits.db",
-      "name": "global-ddb-racial-traits"
+      "name": "global-ddb-racial-traits",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Spells",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-spells.db",
-      "name": "global-ddb-spells"
+      "name": "global-ddb-spells",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "Item",
       "label": "Shared DDB Subclasses",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-subclasses.db",
-      "name": "global-ddb-subclasses"
+      "name": "global-ddb-subclasses",
+      "system": "dnd5e",
+      "flags": {}
     },
     {
       "type": "RollTable",
       "label": "Shaed DDB Tables",
       "module": "global-ddb-compendiums",
       "path": "./packs/global-ddb-tables.db",
-      "name": "global-ddb-tables"
+      "name": "global-ddb-tables",
+      "system": "dnd5e",
+      "flags": {}
     }
   ],
   "manifest": "https://raw.githubusercontent.com/luthes/ddb-module/master/module.json",
